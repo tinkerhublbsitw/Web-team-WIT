@@ -1,0 +1,24 @@
+/* Intentional Errors: Find and fix them! */
+.container {
+    margin: auto;
+    padding: 20px;
+    background-color: #33cc33;
+    border: 2px solid #ff0000;
+    text-align: center;
+    width: 50%
+    height: 50%
+}
+
+h1 {
+    font-size: 24px;
+    color: #000;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 10px;
+    color: #333;
+}
+
+body {
+    background-color: #f0f0f0;
